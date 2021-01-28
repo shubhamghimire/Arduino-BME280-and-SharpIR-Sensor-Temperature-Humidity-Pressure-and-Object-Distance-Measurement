@@ -28,7 +28,7 @@ This porgram shows the values of the temperature, humidity, barometric pressure 
 - If you type '3', then the object distance is displayed from the SharpIR sensor.
 
 ### SharpIR Sensor
-![Screenshot](SharpIR.jpg){:height="36px" width="36px"}
+![Screenshot](SharpIR.jpg)
 
 ### BME280 Sensor
 ![Screenshot](bme280_sensor.jpg)
