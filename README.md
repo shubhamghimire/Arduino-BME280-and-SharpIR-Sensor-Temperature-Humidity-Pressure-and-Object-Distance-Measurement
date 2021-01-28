@@ -1,4 +1,4 @@
-# Environment Sensing and Object Distance Measurement
+# Environment Sensing and IR Distance Range Measurement
 This porgram shows the values of the temperature, humidity, barometric pressure and altitude by the connected BME280 sensor and also measures the distance of an object by the Sharp-IR sensor.
 
 # Items Used
